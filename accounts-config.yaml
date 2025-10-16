@@ -33,15 +33,15 @@ workloadAccounts:
   # The "name" will be used to set the AWS Account name
   # The "name" value does not currently support spaces
   # The "name" value DOES NOT need to match the account name
-  - name: SharedServices
-    description: The SharedServices account
-    email: robtroke+lza3-sharedservices@amazon.com
-    organizationalUnit: Infrastructure
-  - name: Network
-    description: The Network account
-    email: robtroke+lza3-network@amazon.com
-    organizationalUnit: Infrastructure
-  - name: Perimeter
-    description: The Perimeter account
-    email: robtroke+lza3-perimeter@amazon.com
-    organizationalUnit: Infrastructure
+  # - name: SharedServices
+  #   description: The SharedServices account
+  #   email: robtroke+lza3-sharedservices@amazon.com
+  #   organizationalUnit: Infrastructure
+  # - name: Network
+  #   description: The Network account
+  #   email: robtroke+lza3-network@amazon.com
+  #   organizationalUnit: Infrastructure
+  # - name: Perimeter
+  #   description: The Perimeter account
+  #   email: robtroke+lza3-perimeter@amazon.com
+  #   organizationalUnit: Infrastructure
