@@ -12,6 +12,7 @@ organizationalUnits:
   - name: Suspended
     ignore: true
   - name: Workloads
+  - name: Workloads/Sandbox
   - name: Workloads/Dev
   - name: Workloads/Test
   - name: Workloads/Prod
